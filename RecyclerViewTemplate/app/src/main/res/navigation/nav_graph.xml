@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/verticalListFragment"
-        android:name="com.quangtrung.recyclerviewtemplate.fragment.VerticalListFragment"
+        android:name="com.quangtrung.recyclerviewtemplate.fragment.verticallist.VerticalListFragment"
         android:label="fragment_vertical_list"
         tools:layout="@layout/fragment_vertical_list" />
 </navigation>
